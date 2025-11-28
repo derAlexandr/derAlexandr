@@ -6,7 +6,7 @@
 
 # Рассказин Александр
 
-> **Data Analyst** | Аналитик данных с 4-летним опытом
+**Data Analyst**
 
 </div>
 
@@ -63,8 +63,8 @@
 
 ## Образование и курсы
 
-* **Магистратура**
-* **Профессиональная переподготовка**: Аналитик данных (Яндекс Практикум)
+* **Магистратура**: STEM-образование, 2020
+* **Профессиональная переподготовка**: Аналитик данных (Яндекс Практикум), 2025
 * **Курсы**:
   * Python: анализ данных с Pandas (Stepik)
   * Основы статистики (Stepik)
@@ -89,8 +89,7 @@
 
 <div align="left">
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=social&logo=telegram)](https://t.me/ваш_ник)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/ваш_профиль)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=social&logo=telegram)](https://t.me/@Rasskazin_Alexandr)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=social&logo=gmail)](mailto:rasskazin2016@mail.ru)
 
 </div>
